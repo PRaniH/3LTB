@@ -16,11 +16,15 @@ The FA Trader app. will have functionality where FAs can log in to their own acc
 
 
 ### Features
-Include Features here
+User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+Posting: An authenticated user will be able to post flight legs he wishes to drop.
+Bidding: An authenticated user can pick up other flight attendant's assignment that is of interest to him.
+Trading: An authenticated user can trade flight assignments with other employees.
 ### Technologies
-Include Technologies here
+MySQL (Working with a db remotely)
+Within the realm of C#: LINQ to entities, authentication, concurrency, app configuration
 ### What I'll Have to Learn
-Include what you will need to learn here
+In depth knowledge of LINQ to entities, authentication, concurrency, app configuration
 
-### Project Tracker
+###Link to your Trello board here (This is our group Trello Board)
 https://trello.com/b/groHhAIA/3ltb
