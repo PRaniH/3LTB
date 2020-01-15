@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3LTB - live", "3LTB - live\3LTB - live.csproj", "{FAF3F6D2-2260-4557-9D0F-95620A1518FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF3F6D2-2260-4557-9D0F-95620A1518FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF3F6D2-2260-4557-9D0F-95620A1518FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF3F6D2-2260-4557-9D0F-95620A1518FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF3F6D2-2260-4557-9D0F-95620A1518FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D91891-8297-49FC-8AE8-4F6BBE6638BA}
+	EndGlobalSection
+EndGlobal
